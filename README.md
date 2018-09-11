@@ -6,3 +6,8 @@ data into a proper format. Set of resumes are parsed and converted them into num
 for input into recommender-systems/ information-retrieval algorithms).
 
 The data-set that we provide contains 250 CVs.
+
+
+The output files can be seen in -
+vocab.txt 
+countVec.txt
