@@ -1,4 +1,4 @@
-# text-pre-processing
+# Text-pre-processing
 Text Pre-Processing
 
 This tasks touches on the next step of analyzing textual data, i.e., converting the extracted
